@@ -1,9 +1,0 @@
-Maybe we can consider some cases that can be done with n-gram analysis.
-
-stuff like
-
-if we have a middle character to guess between 2 characters then we can directly use 3-gram analysis here.
-perhaps even afterward we can try to do something.
-
-
-So an idea can maybe be to use n-gram like this over all the possible 
